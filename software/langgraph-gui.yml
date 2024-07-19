@@ -1,0 +1,24 @@
+# langgraph-gui.yml
+name: LangGraph-GUI
+website_url: https://github.com/LangGraph-GUI/
+description: A user-friendly interface for editing Node-Edge workflow graphs with LangGraph. Supports creating, editing, and running workflows using local language models by Ollama. Can run with Docker Compose.
+licenses:
+  - MIT
+platforms:
+  - Docker-Compose
+  - ReactFlow
+  - Flask
+  - Qt
+tags:
+  - Automation
+  - Development
+  - Workflow
+  - Editor
+  - LangGraph 
+  - LangChain
+source_code_url: https://github.com/LangGraph-GUI/
+depends_3rdparty: true 
+stargazers_count: 66 # Total stars from all components
+updated_at: '2024-07-19' 
+archived: false 
+
